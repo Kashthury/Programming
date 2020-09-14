@@ -7,7 +7,7 @@ git status- identify the current stats of the work done so fqr
 git commit -m "message"-commit your changes
 git rm --cached filename - remove added file
 
-enake elame prachana
+
 THINK POSITIVE
 
 
