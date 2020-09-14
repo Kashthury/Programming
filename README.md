@@ -6,7 +6,12 @@ git add-adding file or directory inside the git
 git status- identify the current stats of the work done so fqr
 git commit -m "message"-commit your changes
 git rm --cached filename - remove added file
-jhhjhdkjh hjkhs jkhaksn hkhjlkh
+
+enake elame prachana
+THINK POSITIVE
+
+
+
 configure proxy
 ===============
 
